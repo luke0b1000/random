@@ -182,5 +182,5 @@ function timeCalc(myArray) {
   return totaltime_hour;
 }
 
-console.log('Practical JS: ', timeCalc(myTimePJS));
-console.log('Premium JS: ', timeCalc(myTimePremium));
+console.log('Practical JS: ', timeCalc(myTimePJS));  //Practical JS:  8.189444444444444
+console.log('Premium JS: ', timeCalc(myTimePremium));  //Premium JS:  19.975
